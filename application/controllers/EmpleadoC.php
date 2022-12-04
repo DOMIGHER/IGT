@@ -1,6 +1,6 @@
 <?php 
 
-class EmpleadoC extends CI_Controllers{
+class EmpleadoC extends CI_Controller{
 
 
 

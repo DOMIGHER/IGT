@@ -1,6 +1,6 @@
 <?php 
 
-class InfoEmpresaC extends CI_Controllers{
+class InfoEmpresaC extends CI_Controller{
 
 
 

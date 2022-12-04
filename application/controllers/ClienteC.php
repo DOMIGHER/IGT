@@ -1,6 +1,6 @@
 <?php 
 
-class ClienteC extends CI_Controllers{
+class ClienteC extends CI_Controller{
 
 
 

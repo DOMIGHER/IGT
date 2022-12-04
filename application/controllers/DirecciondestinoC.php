@@ -1,6 +1,6 @@
 <?php 
 
-class DirecciondestinoC extends CI_Controllers{
+class DirecciondestinoC extends CI_Controller{
 
 
 

@@ -1,6 +1,6 @@
 <?php 
 
-class AdministradorC extends CI_Controllers{
+class AdministradorC extends CI_Controller{
 
 
 

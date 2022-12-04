@@ -1,6 +1,6 @@
 <?php 
 
-class SolicitudC extends CI_Controllers{
+class SolicitudC extends CI_Controller{
 
 
 

@@ -1,6 +1,6 @@
 <?php 
 
-class CostosC extends CI_Controllers{
+class CostosC extends CI_Controller{
 
 
 

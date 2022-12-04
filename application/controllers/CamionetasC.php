@@ -1,6 +1,6 @@
 <?php 
 
-class CamionetasC extends CI_Controllers{
+class CamionetasC extends CI_Controller{
 
 
 
